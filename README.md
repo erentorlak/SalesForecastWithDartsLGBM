@@ -1,3 +1,6 @@
+If you have trouble seeing ipynb file : 
+https://nbviewer.org/github/erentorlak/SalesForecastingWithDartsLGBM/blob/main/sales_forecast_darts_lgbm.ipynb
+
 https://www.kaggle.com/competitions/store-sales-time-series-forecasting
 
 score : 0.38532
